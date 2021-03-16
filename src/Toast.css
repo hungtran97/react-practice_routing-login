@@ -1,0 +1,14 @@
+.custom-toast {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 10;
+    width: 98vw;
+    height: 50px;
+    font-size: 12px;
+    margin: 10px;
+}
+
+.custom-toast * {
+    position: relative;
+}
